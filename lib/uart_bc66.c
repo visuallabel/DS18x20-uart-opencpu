@@ -2,7 +2,7 @@
  * 
  * Based on:
  * 
- * https://github.com/dword1511/onewire-over-uart 
+ * https://github.com/dword1511/onewire-over-uart  (uart_posix.c)
  * and
  * https://github.com/Wiz-IO/LIB/tree/master/NOTES/src (ds_uart.cpp)
  * 
